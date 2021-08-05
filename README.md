@@ -1,4 +1,4 @@
-[![Header](https://github.com/harisaisundhar/harisaisundhar/blob/main/GitHeader.gif "Header")](https://)
+[![Header](https://github.com/harisaisundhar/harisaisundhar/blob/main/GitHeader.jpg "Header")](https://)
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/harisaisundhar/harisaisundhar/master/wave.gif" width="30px">
 
