@@ -1,7 +1,6 @@
 [![Header](https://github.com/harisaisundhar/harisaisundhar/blob/main/Header.gif "Header")](https://)
 
-
-![Alt text](Header.gif) / ![](Header.gif)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=harisaisundhar)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **harisaisundhar/harisaisundhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
